@@ -1,3 +1,3 @@
 # hello-world
-Clay Fulcher
+Jordan Clay Fulcher
 8-27-18
